@@ -1,4 +1,4 @@
-# Poatek auto-test
+# Poatek auto-test - create a todo list with class components.
 ## Candidate: Nataniel Porto
 ----------
 
