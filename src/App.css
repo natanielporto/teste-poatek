@@ -1,0 +1,43 @@
+.hero {
+  font-size: 55px;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.form-control {
+  border-radius: none;
+}
+
+.btn {
+  font-weight: 700;
+}
+
+.numberOfTasks {
+  background: lightblue;
+  height: 30px;
+  padding: 5px 10px;
+  margin-bottom: 15px;
+}
+
+.tasks {
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.tasks:hover {
+  background-color: lightgray;
+}
+
+.hidden {
+  display: none;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+  font-weight: bold;
+}
